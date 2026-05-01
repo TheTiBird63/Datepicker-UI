@@ -1,0 +1,60 @@
+.dataPicker
+{ 
+
+	margin-left: 35%;
+	
+}
+.dateInput
+{
+	border-style: solid;
+	width: 250px;
+	margin-bottom: 5px;
+
+	border-color:#CE2626;
+	
+	
+	
+}
+.calendar
+{
+	
+	border-style: solid;
+	width: 240px;
+	padding-left: 10px;
+	border-color:#CE2626;
+	color:#FFFDEB;
+	
+}
+.calInfo
+{
+	margin: 0px auto;
+	text-align: center;
+	
+	
+}
+.dateFinder
+{
+	
+	width: 189px;
+	
+	
+	
+	
+}
+.dateButton
+{
+	
+	width: 15%;
+	
+	
+	
+	
+}
+.otherMonth
+{
+	color:#E8DBB3;
+}
+
+body{background-color:#7DAACB}
+hr{width: 70%;}
+p{text-align: center;}
